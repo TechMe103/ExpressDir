@@ -8,7 +8,7 @@ app.listen(port , () =>{
     console.log(`app listening on port ${port}`);
 });
 
-//Write localhost:3000 on web browser 
+// localhost:3000 
 
 // app.use((req , res)=>{
 //     // console.log(req);
